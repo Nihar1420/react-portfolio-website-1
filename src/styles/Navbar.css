@@ -1,0 +1,31 @@
+.appBar {
+    box-shadow: none !important;
+    background-color: #f4f4f4 !important;
+    height: auto;
+}
+
+.menuToolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.menuItems {
+    display: flex !important;
+    gap: 100px !important;
+    color: #444444 !important;
+    justify-content: center;
+    margin-left: 80px;
+    font-weight: 300;
+}
+
+.resumeButton {
+    margin-left: auto !important;
+    margin-right: 65px !important;
+}
